@@ -306,6 +306,7 @@ dependencies:
   - pysocks=1.7.1=py39haa95532_0
   - pytables=3.6.1=py39h56d22b6_1
   - pytest=7.1.2=py39haa95532_0
+  - python=3.4
   - python=3.9.7=h6244533_1
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python-fastjsonschema=2.15.1=pyhd3eb1b0_0
